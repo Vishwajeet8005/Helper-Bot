@@ -20,5 +20,9 @@ Best Website I Make Ever
 - join GX 🪐Galaxy
 
 
-
+![image](https://user-images.githubusercontent.com/74746579/119320781-a8084880-bc9b-11eb-9f34-aa8351183424.png)
+- Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
+- Change prefix and status in `config.json`
+- Run in repl.it
+- 
 # Please join my server.
